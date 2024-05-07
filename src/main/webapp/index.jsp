@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Alhamdhulillah</h2>
-<h3>Allahu Akber</h3>
+<h2>Allah is most merciful</h2>
 </body>
 </html>
